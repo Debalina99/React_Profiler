@@ -1,5 +1,5 @@
 import './App.css';
-import { useState, Profiler, useCallback } from 'react';
+import { useState, Profiler } from 'react';
 import Input from './components/Input';
 import Counter from './components/Counter';
 
